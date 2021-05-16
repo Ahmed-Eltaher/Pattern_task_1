@@ -1,0 +1,1 @@
+Pattern_task_1
