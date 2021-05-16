@@ -1,5 +1,7 @@
 Pattern_task_1
-
+<h1>Authors : Ahmed Eltaher code: 1170521
+</h1>
+<h1> Ahmed Ragab code :  4180597</h1>
 <h1>Code Overview</h1>
 
 <h3># Online Algorithm</h3>
